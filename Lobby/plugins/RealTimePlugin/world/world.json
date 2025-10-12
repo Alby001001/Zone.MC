@@ -1,0 +1,7 @@
+{
+  "world": "world",
+  "updateInterval": 60,
+  "active": true,
+  "time": { "active": true, "timezone": "Europe/Budapest" },
+  "weather": { "active": false, "City": "Budapest", "Country": "HU", "weatherKey": "" }
+}
