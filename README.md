@@ -35,7 +35,7 @@ I’ll try to check and update them regularly, but I **highly recommend searchin
 | Plugin | Download |
 |--------|-----------|
 | **Sonar-Velocity** | [![Download](https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge)](https://www.spigotmc.org/resources/sonar-velocity.107264/) |
-| **ViaVersion** | [![Download](https://img.shields.io/badge/⬇️-ViaVersion-55acee?style=for-the-badge)](https://cdn.modrinth.com/data/P1OZGk5p/versions/sVahWBKF/ViaVersion-5.5.1.jar) |
+| **ViaVersion** | [![Download](https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge)](https://cdn.modrinth.com/data/P1OZGk5p/versions/sVahWBKF/ViaVersion-5.5.1.jar) |
 
 ---
 🧩 *Created and configured by Alby / ZoneMC*
