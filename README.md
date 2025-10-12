@@ -37,7 +37,5 @@ I’ll try to check and update them regularly, but I **highly recommend searchin
 | **Sonar-Velocity** | [![Download](https://img.shields.io/badge/⬇️-Download-blue?style=for-the-badge)](https://www.spigotmc.org/resources/sonar-velocity.107264/) |
 
 ---
-
-### 🧱 Compatibility
 ---
 🧩 *Created and configured by Alby / ZoneMC*
