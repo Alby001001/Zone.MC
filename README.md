@@ -1,4 +1,4 @@
-# 🧩 ZoneMC Network Setup
+# 🧩 ZoneMC Setup
 
 ## 🖥️ Server Downloads
 
