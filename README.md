@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td><strong>HubPlugin</strong></td>
-<td><img src="https://img.shields.io/badge/In_Repository-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="In Repository"></td>
+<td><em>In repo</em></td>
 </tr>
 </table>
 
