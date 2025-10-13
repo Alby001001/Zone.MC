@@ -1,0 +1,9 @@
+Survivor Plugins
+
+- EssentialsX — same configuration as lobby
+- EssentialsXChat — same configuration as lobby
+- Vault — same configuration as lobby
+
+- TAB
+- BetterRTP
+- LuckPerms

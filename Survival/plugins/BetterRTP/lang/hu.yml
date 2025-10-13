@@ -1,0 +1,71 @@
+# Segíts lefordítani ezt a fájlt több nyelvre!
+Messages:
+  Prefix: '&7[&6BetterRTP&7] '
+
+  Success:
+    Paid: '&aSikeres teleport ide:&7 x=%x% y=%y% z=%z% &a– &c$%price% &alevonva.'
+    Bypass: '&aSikeres teleport ide:&7 x=%x% y=%y% z=%z%'
+    Loading: '&aBiztonságos hely keresése... &7Kérlek, várj!'
+    Teleport: '&aTeleportálás... &fKérlek, várj, amíg biztonságos helyet találunk!'
+
+  Failed:
+    Price: '&cNincs elég pénzed az RTP-hez! &7Legalább &c$%price% &7szükséges.'
+    NotSafe: '&c%attempts% próbálkozás után sem találtunk biztonságos helyet. &7A teleport elmaradt.'
+    Hunger: '&cNem tudunk teleportálni,&7 túl éhes vagy. Egyél valamit!'
+
+  Other:
+    Success: '&a%player% sikeresen teleportálva ide:&7 x=%x% y=%y% z=%z%'
+    NotSafe: '&c%attempts% próbálkozás után sem találtunk biztonságos helyet. &7%player% nem lett teleportálva!'
+    Biome: '&cA(z) &7%biome% &cbiom nem található. &7Használd a TAB-listát a névhez!'
+
+  Reload: '&eA konfiguráció sikeresen újratöltve!'
+
+  NoPermission:
+    Basic: '&cNincs jogosultságod ehhez a parancshoz. &8Jogosultság: %permission%'
+    World: '&cEbben a világban nem engedélyezett az RTP (&7%world%&c). &8Jogosultság: %permission%'
+
+  DisabledWorld: '&cAz RTP le van tiltva a(z) %world% világban. &7A teleport meghiúsult.'
+  Cooldown: '&cVárnod kell még &c%time%&7, mielőtt újra használhatod az RTP-t.'
+  Locked: '&cElérted az RTP-k korlátját.'
+  Invalid: '&cÉrvénytelen paraméter. Használat: &f/%command% help'
+  NotOnline: '&cA(z) &7%player% &cjátékos nincs online.'
+  Delay: '&aTeleportálás &f%time% &amp múlva! &7Ne mozdulj!'
+  Moved: '&cMegmozdultál! &7A teleport megszakadt.'
+  NotExist: '&cÚgy tűnik, a(z) &7%world% &cvilág nem létezik.'
+  Already: '&cMár folyamatban van egy RTP-teleportod, kérlek, légy türelemmel!'
+  Sign: '&7Parancstábla létrehozva! &7Parancs: ''&f/rtp %command%&7'''
+
+  Edit:
+    Error: '&cHiba! &7Érvénytelen bemenet.'
+    Set: '&bKész! &7%type% beállítva: %value%'
+    Remove: '&cEltávolítva! &7A(z) %world% egyedi világ törölve.'
+
+Help:
+  Prefix: '&e&m-----&6&l BetterRTP &8| &eSúgó &e&m-----'
+  Main: ' &7- &e/%command% &7- Véletlenszerű teleport a világban.'
+  Biome: ' &7- &e/%command% biome <biome1, biome2...> &7- Véletlenszerű teleport a megadott biom(ok)ba.'
+  Edit: ' &7- &e/%command% edit <default/world> [args...] &7- Beállítások szerkesztése.'
+  Help: ' &7- &e/%command% help &7- Súgó megjelenítése.'
+  Info: ' &7- &e/%command% info [world/particles/shapes/potion_effects] &7- Plugin-specifikus opciók.'
+  Player: ' &7- &e/%command% player <player> [world] [biome1, biome2...] &7- Játékos véletlenszerű teleportja.'
+  Reload: ' &7- &e/%command% reload &7- Konfiguráció újratöltése.'
+  Settings: ' &7- &e/%command% settings &7- Beállítások GUI megnyitása.'
+  Test: ' &7- &e/%command% test &7- Teleport utáni effektek kipróbálása mozgás nélkül.'
+  Version: ' &7- &e/%command% version &7- Jelenlegi verzió megjelenítése.'
+  World: ' &7- &e/%command% world <world> [biome1, biome2...] &7- Véletlenszerű teleport a megadott világban.'
+  Location: ' &7- &e/%command% location <location_name> &7- Teleport egy előre megadott helyről.'
+
+Usage:
+  Player: '&cHasználat:&7 /%command% player <player> [world] [biome1, biome2...]'
+  World: '&cHasználat:&7 /%command% world <world> [biome1, biome2...]'
+  Biome: '&cHasználat:&7 /%command% biome <biome1, biome2...>'
+  Location: '&cHasználat:&7 /%command% location <location_name>'
+  Edit:
+    Base: '&cHasználat:&7 /%command% edit <default/world> [args...]'
+    Default: '&cHasználat:&7 /%command% edit default <max/min/useworldborder/center> <value>'
+    World: '&cHasználat:&7 /%command% edit customworld <world> <max/min/useworldborder/center> <value>'
+    PermissionGroup: '&cHasználat:&7 /%command% edit permission_group <group> <world> <max/min/useworldborder/center> <value>'
+    Location: '&cHasználat:&7 /%command% edit location <location_name> <max/min/useworldborder/center> <value>'
+    Worldtype: '&cHasználat:&7 /%command% edit world_type <world> <NETHER/NORMAL>'
+    Override: '&cHasználat:&7 /%command% edit override <world> <world_to>'
+    BlacklistedBlocks: '&cHasználat:&7 /%command% edit blacklistedblocks <add/remove> <block_id>'

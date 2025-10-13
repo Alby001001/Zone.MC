@@ -1,0 +1,52 @@
+Sounds:
+  Enabled: true
+  ProtocolLibSound: false
+  # További hangok: https://www.spigotmc.org/wiki/cc-sounds-list/
+  Delay: entity_tnt_primed
+  Success: entity_generic_explode
+
+Titles:
+  Enabled: true
+  # Minden cím támogatja: %player% %x% %y% %z%
+  NoDelay: # Akkor fut, ha nincs késleltetés
+    Title: '&6Teleportálás...'
+    Subtitle: '&8kérlek, várj'
+    SendMessage: true
+  Teleport:
+    Title: '&6Teleportálva!'
+    Subtitle: '&fx=%x% y=%y% z=%z%'
+    SendMessage: true # Chatben is megjelenjen a sikerüzenet
+  Delay:
+    Title: ''
+    Subtitle: '&fA teleport &e%time%&f múlva indul...'
+    SendMessage: true # Chatben is jelenjen meg a késleltetés üzenete
+  Cancelled:
+    Title: '&eMegmozdultál...'
+    Subtitle: '&cAz RTP megszakadt!'
+    SendMessage: true # Chatben is jelezze a megszakítást
+  Loading:
+    Title: ''
+    Subtitle: '&7Chunkok betöltése... kérlek, várj'
+    SendMessage: true # Chatben is jelezze a töltést
+  Failed:
+    Title: ''
+    Subtitle: '&cSikertelen! Nem találtunk biztonságos helyet.'
+    SendMessage: true
+
+Particles: # Részecskék listája: /rtp info particles
+  Enabled: true
+  Type: # Típusok: https://github.com/ByteZ1337/ParticleLib/blob/master/src/main/java/xyz/xenondevs/particle/ParticleEffect.java
+    - EXPLOSION_NORMAL
+    - CRIT
+  Shape: EXPLODE # Lehet: Scan, Teleport, Explode (vagy /rtp info shapes)
+
+Invincible: # Mennyi ideig ne sebződjön a játékos teleport után
+  Enabled: true
+  Seconds: 5
+
+Potions: # Lista: /rtp info potion_effects
+  Enabled: true
+  # Formátum: <potion_név>:[tick_időtartam]:[erősség]  (alapértelmezett: 60 tick, erősség 1)
+  Types:
+    - Blindness:60:1
+    - Invisibility:60:1
