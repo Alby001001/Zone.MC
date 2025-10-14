@@ -40,6 +40,10 @@
 <td><strong>AuthMeProxy-Velocity</strong></td>
 <td><a href="https://release-assets.githubusercontent.com/github-production-release-asset/794690310/e99355a9-c3a2-4b47-9b18-0365d0dbe654?sp=r&sv=2018-11-09&sr=b&spr=https&se=2025-10-13T14%3A41%3A58Z&rscd=attachment%3B+filename%3DAuthMeProxy-Velocity-1.0.jar&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2025-10-13T13%3A41%3A44Z&ske=2025-10-13T14%3A41%3A58Z&sks=b&skv=2018-11-09&sig=CUdfTDGjFKQwSSbQ%2BnGFbRmWdvwsqqn2RLdDK7Z4btw%3D"><img src="https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=download&logoColor=white" alt="Download"></a></td>
 </tr>
+<tr>
+<td><strong>HubPlugin</strong></td>
+<td><em>In repo</em></td>
+</tr>
 </table>
 
 ---
