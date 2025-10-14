@@ -52,9 +52,9 @@ database:
   # Port for authenticating with the SQL database
   port: 3306
   # Name of the SQL database
-  name: MC
+  name: 
   # Username for authenticating with the SQL database
-  username: root
+  username: 
   # Password for authenticating with the SQL database
   password: ''
   # How many days should Sonar keep verified players in the database?
