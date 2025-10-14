@@ -95,6 +95,10 @@
 <td><strong>TAB</strong></td>
 <td><a href="https://www.spigotmc.org/resources/tab-1-7-x-1-21-10.57806/download?version=610153"><img src="https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=download&logoColor=white" alt="Download"></a></td>
 </tr>
+<tr>
+<td><strong>ServerSelector</strong></td>
+<td><em>In repo</em><br><small></small></td>
+</tr>
 </table>
 
 ---
@@ -120,10 +124,4 @@
 </tr>
 <tr>
 <td><strong>TAB</strong></td>
-<td><a href="https://www.spigotmc.org/resources/tab-1-7-x-1-21-10.57806/download?version=610153"><img src="https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=download&logoColor=white" alt="Download"></a></td>
-</tr>
-<tr>
-<td><strong>Vault</strong></td>
-<td><a href="https://www.spigotmc.org/resources/vault.34315/download?version=344916"><img src="https://img.shields.io/badge/Download-5865F2?style=for-the-badge&logo=download&logoColor=white" alt="Download"></a></td>
-</tr>
-</table>
+<td><a href="https
