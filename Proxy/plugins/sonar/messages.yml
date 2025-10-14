@@ -138,7 +138,7 @@ commands:
     # Message shown when someone tries to verify an IP address/UUID that are already verified
     already: <prefix>Az általad megadott IP-cím és UUID már ellenőrzött.
     # Message shown when someone un-verifies an IP address, but it is not verified
-    ip-not-found: <prefix>The IP address you provided is not verified.
+    ip-not-found: <prefix>Az általad megadott IP-cím nincs ellenőrizve.
     # Message shown when someone looks up the verification history of an IP address
     history: '<prefix><yellow>Korábbi UUID-k ehhez: <ip>:'
     history-entry: ' <gray>▪ <white><uuid>'

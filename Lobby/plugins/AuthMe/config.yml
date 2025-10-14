@@ -381,7 +381,7 @@ Hooks:
     # Do we need to hook with multiverse for spawn checking?
     multiverse: true
     # Do we need to hook with BungeeCord?
-    bungeecord: true
+    bungeecord: false
     # Send player to this BungeeCord server after register/login
     sendPlayerTo: ''
     # Do we need to disable Essentials SocialSpy on join?
@@ -395,7 +395,7 @@ Protection:
     enableProtectionRegistered: true
     geoIpDatabase:
         # Enable GeoIp database
-        enabled: true
+        enabled: false
         # The MaxMind clientId used to download the GeoIp database,
         # get one at https://www.maxmind.com/en/accounts/current/license-key
         # The EssentialsX project has a very useful tutorial on how to generate
