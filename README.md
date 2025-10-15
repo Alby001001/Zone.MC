@@ -53,9 +53,9 @@
 <td><a href="https://modrinth.com/plugin/viaversion/version/5.5.1">Download</a></td>
 </tr>
 <tr>
-<td><strong>AuthMeProxy-Velocity</strong></td>
-<td>1.0</td>
-<td><a href="https://github.com/Defective4/AuthMeProxy/releases/tag/v1.0">Download</a></td>
+<td><strong>AuthMeVelocity (Velocity)</strong></td>
+<td>4.2.0</td>
+<td><a href="https://github.com/4drian3d/AuthMeVelocity/releases/tag/4.2.0">Download</a></td>
 </tr>
 <tr>
 <td><strong>HubPlugin</strong></td>
@@ -85,14 +85,14 @@
 <td><a href="https://www.spigotmc.org/resources/protocollib.1997/">Download</a></td>
 </tr>
 <tr>
-<td><strong>AuthMe</strong></td>
-<td>5.6.0</td>
-<td><a href="https://www.spigotmc.org/resources/authme-reloaded.6269/">Download</a></td>
+<td><strong>AuthMe (Fork)</strong></td>
+<td>5.7.0-FORK-b53</td>
+<td><a href="https://modrinth.com/plugin/authmerereloaded/version/5.7.0-FORK-b53">Download</a></td>
 </tr>
 <tr>
-<td><strong>AuthMe-Velocity-Bridge</strong></td>
-<td>1.0</td>
-<td><a href="https://github.com/Defective4/AuthMeProxy/releases/tag/v1.0">Download</a></td>
+<td><strong>AuthMeVelocity (Paper)</strong></td>
+<td>4.2.0</td>
+<td><a href="https://github.com/4drian3d/AuthMeVelocity/releases/tag/4.2.0">Download</a></td>
 </tr>
 <tr>
 <td><strong>EssentialsX</strong></td>
@@ -187,3 +187,11 @@
 <td><a href="https://www.spigotmc.org/resources/vault.34315/">Download</a></td>
 </tr>
 </table>
+
+---
+
+**Megjegyzés:** az eredeti AuthMe plugin helyett a **AuthMe fork (5.7.0-FORK-b53)**-t és az **AuthMeVelocity 4.2.0** (Velocity + Paper modulok) csomagot használjuk — ezek stabilabb és Velocity-kompatibilis megoldást adnak a hálózatnak.
+
+Források:
+- AuthMeReloaded (fork) @ Modrinth: https://modrinth.com/plugin/authmerereloaded/version/5.7.0-FORK-b53  
+- AuthMeVelocity 4.2.0 @ GitHub: https://github.com/4drian3d/AuthMeVelocity/releases/tag/4.2.0
