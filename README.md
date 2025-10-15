@@ -147,16 +147,6 @@
 
 <table>
 <tr>
-<th>Plugin</th>
-<th>Version</th>
-<th>Download</th>
-</tr>
-<tr>
-<td><strong>Paper</strong></td>
-<td>1.21.8-60</td>
-<td><a href="https://papermc.io/downloads/all?project=paper">Download</a></td>
-</tr>
-<tr>
 <td><strong>BetterRTP</strong></td>
 <td>3.6.13</td>
 <td><a href="https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/">Download</a></td>
