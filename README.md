@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td><strong>ServerSelector</strong></td>
-<td>1.1</td>
+<td>1.2</td>
 <td><em>In repo</em></td>
 </tr>
 </table>
@@ -146,16 +146,6 @@
 ## 🌲 Survival Server
 
 <table>
-<tr>
-<th>Plugin</th>
-<th>Version</th>
-<th>Download</th>
-</tr>
-<tr>
-<td><strong>Paper</strong></td>
-<td>1.21.8-60</td>
-<td><a href="https://papermc.io/downloads/all?project=paper">Download</a></td>
-</tr>
 <tr>
 <td><strong>BetterRTP</strong></td>
 <td>3.6.13</td>
@@ -186,12 +176,29 @@
 <td>1.7.3</td>
 <td><a href="https://www.spigotmc.org/resources/vault.34315/">Download</a></td>
 </tr>
+  <tr> <td><strong>PlaceholderAPI</strong></td> <td>2.11.6</td> <td><a href="https://www.spigotmc.org/resources/placeholderapi.6245/">Download</a></td> </tr>
 </table>
 
----
+### 📍 Locator Bar kikapcsolása (Survival)
+A Survival szerveren futtasd admin/OP joggal az alábbi parancsot a játékos-markerek sáv (Locator Bar) **világ-szintű** kikapcsolásához:
 
-**Megjegyzés:** az eredeti AuthMe plugin helyett a **AuthMe fork (5.7.0-FORK-b53)**-t és az **AuthMeVelocity 4.2.0** (Velocity + Paper modulok) csomagot használjuk — ezek stabilabb és Velocity-kompatibilis megoldást adnak a hálózatnak.
+```mcfunction
+/gamerule locatorBar false
+```
 
-Források:
-- AuthMeReloaded (fork) @ Modrinth: https://modrinth.com/plugin/authmerereloaded/version/5.7.0-FORK-b53  
-- AuthMeVelocity 4.2.0 @ GitHub: https://github.com/4drian3d/AuthMeVelocity/releases/tag/4.2.0
+:heart: Ha a játékos neve alatt a nyers placeholder látszik (Survival
+
+Ha a játékos neve alatt a nyers placeholder (%player_health_rounded%) látszik:
+
+```bash
+/papi ecloud download player
+```
+
+```bash
+/papi reload
+```
+
+```bash
+/tab reload
+```
+
