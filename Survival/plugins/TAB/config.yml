@@ -45,10 +45,10 @@ playerlist-objective:
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Belowname
 belowname-objective:
   enabled: true
-  value: "%ping%"
-  title: ""  # nincs felirat
-  fancy-value: "<gray>%ping%</gray>"  # csak szürke szám
+  value: "%player_health_rounded%"
+  fancy-value: "<white>%player_health_rounded%</white>"
   fancy-value-default: "NPC"
+  title: ""
   disable-condition: '%world%=disabledworld'
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Spectator-fix

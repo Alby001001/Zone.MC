@@ -44,7 +44,7 @@ playerlist-objective:
 
 # https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Belowname
 belowname-objective:
-  enabled: true
+  enabled: false
   value: "%ping%"
   title: ""  # nincs felirat
   fancy-value: "<gray>%ping%</gray>"  # csak szürke szám
