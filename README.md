@@ -178,10 +178,8 @@
 </tr>
 </table>
 
----
+### 📍 Locator Bar kikapcsolása (Survival)
+A Survival szerveren futtasd admin/OP joggal az alábbi parancsot a játékos-markerek sáv (Locator Bar) **világ-szintű** kikapcsolásához:
 
-**Megjegyzés:** az eredeti AuthMe plugin helyett a **AuthMe fork (5.7.0-FORK-b53)**-t és az **AuthMeVelocity 4.2.0** (Velocity + Paper modulok) csomagot használjuk — ezek stabilabb és Velocity-kompatibilis megoldást adnak a hálózatnak.
-
-Források:
-- AuthMeReloaded (fork) @ Modrinth: https://modrinth.com/plugin/authmerereloaded/version/5.7.0-FORK-b53  
-- AuthMeVelocity 4.2.0 @ GitHub: https://github.com/4drian3d/AuthMeVelocity/releases/tag/4.2.0
+```mcfunction
+/gamerule locatorBar false
