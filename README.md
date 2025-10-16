@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td><strong>ServerSelector</strong></td>
-<td>1.2</td>
+<td>1.3</td>
 <td><em>In repo</em></td>
 </tr>
 </table>
