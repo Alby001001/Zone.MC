@@ -176,6 +176,7 @@
 <td>1.7.3</td>
 <td><a href="https://www.spigotmc.org/resources/vault.34315/">Download</a></td>
 </tr>
+  <tr> <td><strong>PlaceholderAPI</strong></td> <td>2.11.6</td> <td><a href="https://www.spigotmc.org/resources/placeholderapi.6245/">Download</a></td> </tr>
 </table>
 
 ### 📍 Locator Bar kikapcsolása (Survival)
