@@ -186,7 +186,7 @@ A Survival szerveren futtasd admin/OP joggal az alábbi parancsot a játékos-ma
 /gamerule locatorBar false
 ```
 
-:heart: Ha a játékos neve alatt a nyers placeholder látszik (Survival
+### :heart: Ha a játékos neve alatt a nyers placeholder látszik (Survival
 
 Ha a játékos neve alatt a nyers placeholder (%player_health_rounded%) látszik:
 
