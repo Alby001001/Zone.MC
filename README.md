@@ -44,8 +44,8 @@
 </tr>
 <tr>
 <td><strong>Sonar-Velocity</strong></td>
-<td>2.1.39</td>
-<td><a href="https://modrinth.com/plugin/sonar/version/2.1.39">Download</a></td>
+<td>2.1.40</td>
+<td><a href="https://modrinth.com/plugin/sonar/version/2.1.40">Download</a></td>
 </tr>
 <tr>
 <td><strong>ViaVersion</strong></td>
