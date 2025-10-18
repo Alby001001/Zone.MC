@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td><strong>ServerSelector</strong></td>
-<td>1.3</td>
+<td>1.4</td>
 <td><em>In repo</em></td>
 </tr>
 </table>
@@ -201,4 +201,12 @@ Ha a játékos neve alatt a nyers placeholder (%player_health_rounded%) látszik
 ```bash
 /tab reload
 ```
+### 💀 Előrelépések és halálüzenetek kikapcsolása (Survival / Lobby)
+```bash
+/gamerule showDeathMessages false
+```
+```bash
+/gamerule announceAdvancements false
+```
+
 
