@@ -44,8 +44,8 @@
 </tr>
 <tr>
 <td><strong>Sonar-Velocity</strong></td>
-<td>2.1.39</td>
-<td><a href="https://modrinth.com/plugin/sonar/version/2.1.39">Download</a></td>
+<td>2.1.40</td>
+<td><a href="https://modrinth.com/plugin/sonar/version/2.1.40">Download</a></td>
 </tr>
 <tr>
 <td><strong>ViaVersion</strong></td>
@@ -136,7 +136,7 @@
 </tr>
 <tr>
 <td><strong>ServerSelector</strong></td>
-<td>1.2</td>
+<td>1.3</td>
 <td><em>In repo</em></td>
 </tr>
 </table>
@@ -186,7 +186,7 @@ A Survival szerveren futtasd admin/OP joggal az alábbi parancsot a játékos-ma
 /gamerule locatorBar false
 ```
 
-:heart: Ha a játékos neve alatt a nyers placeholder látszik (Survival
+### :heart: Ha a játékos neve alatt a nyers placeholder látszik (Survival
 
 Ha a játékos neve alatt a nyers placeholder (%player_health_rounded%) látszik:
 
